@@ -26,9 +26,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(90deg, rgb(243, 134, 91), rgb(82, 243, 144), rgb(138, 111, 236));
     background-clip: text;
-    color: transparent;
+    color: #eee;
 }
 
 .span-animation {
